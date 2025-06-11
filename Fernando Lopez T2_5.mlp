@@ -1,0 +1,30 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh idInFile="-1" filename="burney_relief_queen_of_the_night_draft.ply" label="burney_relief_queen_of_the_night_draft.ply" visible="0">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="252 233 79 255" solidColor="192 192 192 255">000111010000000000000100000001001100000010100000000100111010110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" filename="Fer_Lop_T2_5.ply" label="Poisson mesh" visible="0">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="252 233 79 255" solidColor="192 192 192 255">000001010000000000000100000001001110000010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" filename="Fer_Lop_T2_5.ply" label="Poisson mesh(1)" visible="0">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="252 233 79 255" solidColor="192 192 192 255">100001010000000000000100000001011110000010100000000100111010100000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh idInFile="-1" filename="Fer_Lop_T2_5.ply" label="VoroAtlas" visible="1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" boxColor="234 234 234 255" wireColor="64 64 64 255" wireWidth="1" pointColor="252 233 79 255" solidColor="192 192 192 255">100001000000000000000100000001011100010010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
